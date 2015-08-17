@@ -1,0 +1,14 @@
+{
+  "name": "OOIntro",
+  "version": "0.0.0",
+  "description": "object orientation introduction",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "sibura",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "johnny-five": "~0.8.86"
+  }
+}
